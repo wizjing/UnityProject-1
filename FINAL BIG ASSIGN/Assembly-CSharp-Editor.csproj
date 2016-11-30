@@ -64,6 +64,7 @@
      <None Include="Assets\2D Sky FREE\Demo\Scripts\Note.txt" />
      <None Include="Assets\Plugins\AstarPathfindingProject\Plugins\DotNetZip\DotNetZipLicense.txt" />
      <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\Materials\Projector Multiply.shader" />
+     <None Include="Assets\Fox\Readme.txt" />
      <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\Materials\DiffuseAlwaysVisible.shader" />
      <None Include="Assets\Plugins\AstarPathfindingProject\Plugins\dependencies.txt" />
      <None Include="Assets\Plugins\AstarPathfindingProject\ExampleScenes\_Example Scenes.txt" />
@@ -77,7 +78,7 @@
      <None Include="Assets\AstarPathfindingEditor\Editor\EditorAssets\Materials\NavmeshOutline.shader" />
      <None Include="Assets\Plugins\AstarPathfindingProject\link.xml" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/Terry/Documents/FINAL BIG ASSIGN/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>C:/Users/Terry/Documents/GitHub/UnityProject/FINAL BIG ASSIGN/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -107,16 +108,16 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="2D Sky FREE">
- <HintPath>C:/Users/Terry/Documents/FINAL BIG ASSIGN/Assets/2D Sky FREE/Demo/Scripts/2D Sky FREE.dll</HintPath>
+ <HintPath>C:/Users/Terry/Documents/GitHub/UnityProject/FINAL BIG ASSIGN/Assets/2D Sky FREE/Demo/Scripts/2D Sky FREE.dll</HintPath>
  </Reference>
  <Reference Include="GETween">
- <HintPath>C:/Users/Terry/Documents/FINAL BIG ASSIGN/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
+ <HintPath>C:/Users/Terry/Documents/GitHub/UnityProject/FINAL BIG ASSIGN/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
  </Reference>
  <Reference Include="GUIAnimatorFREE">
- <HintPath>C:/Users/Terry/Documents/FINAL BIG ASSIGN/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ <HintPath>C:/Users/Terry/Documents/GitHub/UnityProject/FINAL BIG ASSIGN/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.Ionic.Zip.Reduced">
- <HintPath>C:/Users/Terry/Documents/FINAL BIG ASSIGN/Assets/Plugins/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ <HintPath>C:/Users/Terry/Documents/GitHub/UnityProject/FINAL BIG ASSIGN/Assets/Plugins/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
